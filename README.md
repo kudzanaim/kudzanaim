@@ -76,7 +76,6 @@ Hosting & Orchestration 🌎 :
 • Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run. <br>
 • Implemented Google Cloud Scheduler to automatically back up Firebase databases. <br>
 • Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers. <br>
-<br>
 **[Web App](https://player.strma.app)**
 
 
@@ -92,7 +91,6 @@ Simple client-side chart visualizations app that presents data in the form of a 
 • Google Charts for building charts.<br>
 • D3.js for builsing the map visualizations, and mapping the API metrics to the map.<br>
 • Firebase for hosting the web-app.<br>
-
 **[Web App](https://eqworksapiapp.firebaseapp.com/)**
 
 
