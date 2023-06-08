@@ -65,6 +65,10 @@ Programming Languages 👨‍💻 :
 	<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" style="max-width: 100%;">
 </div>
 
+<br>
+<br>
+<br>
+
 	
 **Strma Music (Private Repo)**
 - Built a serverless music streaming service hosted on GCP Cloud Run.
@@ -74,6 +78,10 @@ Programming Languages 👨‍💻 :
 - Implemented Google Cloud Scheduler to automatically back up Firebase databases.
 - Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers.
 **[Web App](https://player.strma.app)**
+
+<br>
+<br>
+<br>
 
 
 **[Simple Data Vizualization](https://github.com/kudzanaim/data-visualization)**
@@ -88,6 +96,10 @@ Simple client-side chart visualizations app that presents data in the form of a 
 - D3.js for builsing the map visualizations, and mapping the API metrics to the map.
 - Firebase for hosting the web-app.
 **[Web App](https://eqworksapiapp.firebaseapp.com/)**
+
+<br>
+<br>
+<br>
 
 [**Terraform & CLoud Run Formation**](https://github.com/kudzanaim/terraform-test)
 <br>
