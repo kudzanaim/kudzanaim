@@ -69,6 +69,9 @@ Programming Languages 👨‍💻 :
 <br>
 <br>
 
+<h1>
+	<b>My Projects</b>
+</h1>
 	
 **Strma Music (Private Repo)**
 - Built a serverless music streaming service hosted on GCP Cloud Run.
