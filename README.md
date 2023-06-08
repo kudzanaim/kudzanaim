@@ -65,16 +65,16 @@ Hosting & Orchestration 🌎 :
 	<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" style="max-width: 100%;">
 </div>
         
-	
-	
-	
-	
+<br>
+<br>
 	
 Strma Music (Private Repo)
-• Built a serverless music streaming service hosted on GCP Cloud Run
-• Deployed 3 micro-frontends built in React & Redux targeting 3 user groups (Listeners & Artists & Site Admin)
-• Worked on both front & backend layers, writing client side React/Redux & NodeJS for REST API services 
-• Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run 
-• Implemented Google Cloud Scheduler to automatically back up Firebase databases 
-• Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers
+<br>
+• Built a serverless music streaming service hosted on GCP Cloud Run <br>
+• Deployed 3 micro-frontends built in React & Redux targeting 3 user groups (Listeners & Artists & Site Admin) <br>
+• Worked on both front & backend layers, writing client side React/Redux & NodeJS for REST API services <br>
+• Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run <br>
+• Implemented Google Cloud Scheduler to automatically back up Firebase databases <br>
+• Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers <br>
+<br>
 **[Web App](https://player.strma.app)**
