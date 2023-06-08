@@ -86,7 +86,7 @@ Simple client-side chart visualizations app that presents data in the form of a 
 • This table allows for fuzzy search on meaningful values (such as POI names).<br>
 • A functional map-based data visualization based on different POI-bound metrics.<br>
 <br>
-<u>Technologies Used:</u> <br>
+<div style="text-decoration: underline">Technologies Used:</div> <br>
 • React & redux.<br>
 • Google Charts for building charts.<br>
 • D3.js for builsing the map visualizations, and mapping the API metrics to the map.<br>
