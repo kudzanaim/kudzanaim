@@ -4,7 +4,6 @@
 	</h1>
 	<p>
 		Dynamic Full Stack developer with 6 years experience working in both small startup environments & large corporate teams. Expertise in React, Node.js, REST, 			GraphQL, NextJS, Docker, MongoDB, AWS & GCP.
-		Download my Resume
 	</p>
 	<a href="https://drive.google.com/file/d/1ClR3AAl8S1duP1se26xmH0bLFFcBO0oS/view?usp=sharing" rel="nofollow">Download my Resume</a>
 	<br>
