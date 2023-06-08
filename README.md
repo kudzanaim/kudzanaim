@@ -64,40 +64,36 @@ Hosting & Orchestration 🌎 :
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" style="max-width: 100%;">
 </div>
-        
-<br>
-<br>
+
 	
 **Strma Music (Private Repo)**
-<br>
-• Built a serverless music streaming service hosted on GCP Cloud Run.. <br>
-• Deployed 3 micro-frontends built in React & Redux targeting 3 user groups (Listeners & Artists & Site Admin). <br>
-• Worked on both front & backend layers, writing client side React/Redux & NodeJS for REST API services. <br>
-• Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run. <br>
-• Implemented Google Cloud Scheduler to automatically back up Firebase databases. <br>
-• Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers. <br>
+- Built a serverless music streaming service hosted on GCP Cloud Run.
+- Deployed 3 micro-frontends built in React & Redux targeting 3 user groups (Listeners & Artists & Site Admin).
+- Worked on both front & backend layers, writing client side React/Redux & NodeJS for REST API services.
+- Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run.
+- Implemented Google Cloud Scheduler to automatically back up Firebase databases.
+- Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers.
 **[Web App](https://player.strma.app)**
 
 
 **[Simple Data Vizualization](https://github.com/kudzanaim/data-visualization)**
-<br>
-Simple client-side chart visualizations app that presents data in the form of a bar chart, plus the following: <br>
-• A data table that is used to browse through data supplied from an API. <br>
-• This table allows for fuzzy search on meaningful values (such as POI names).<br>
-• A functional map-based data visualization based on different POI-bound metrics.<br>
-<br>
-Technologies Used:<br>
-• React & redux.<br>
-• Google Charts for building charts.<br>
-• D3.js for builsing the map visualizations, and mapping the API metrics to the map.<br>
-• Firebase for hosting the web-app.<br>
+Simple client-side chart visualizations app that presents data in the form of a bar chart, plus the following: 
+- A data table that is used to browse through data supplied from an API. 
+- This table allows for fuzzy search on meaningful values (such as POI names).
+- A functional map-based data visualization based on different POI-bound metrics.
+
+Technologies Used:
+- React & redux.
+- Google Charts for building charts.
+- D3.js for builsing the map visualizations, and mapping the API metrics to the map.
+- Firebase for hosting the web-app.
 **[Web App](https://eqworksapiapp.firebaseapp.com/)**
 
 [**Terraform & CLoud Run Formation**](https://github.com/kudzanaim/terraform-test)
 <br>
-This App is a client-side app that allows users to provision a new [Cloud Run](https://cloud.google.com/run/?utm_source=google&utm_medium=cpc&utm_campaign=na-CA-all-en-dr-bkws-all-all-trial-e-dr-1605212&utm_content=text-ad-none-any-DEV_c-CRE_623126732339-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20_%20General%20_%20Product%20Support-KWID_43700073231538867-kwd-353039629183&utm_term=KW_cloud%20run-ST_cloud%20run&gclid=CjwKCAjw-IWkBhBTEiwA2exyO4N-YLvq9tT-BpEOMcgDSN8j8h1seSxxABvOng5uGtKY4wg9PNrDRRoCqVYQAvD_BwE&gclsrc=aw.ds) service given an image ID, and upon submit, a `TERRAFORM` file is dynamically created and sets up all hosting for the given image & returns a public URL. The cloud run service will be a serveless container and can be created or deleted through the UI. <br>
+This App is a client-side app that allows users to provision a new [Cloud Run](https://cloud.google.com/run/?utm_source=google&utm_medium=cpc&utm_campaign=na-CA-all-en-dr-bkws-all-all-trial-e-dr-1605212&utm_content=text-ad-none-any-DEV_c-CRE_623126732339-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20_%20General%20_%20Product%20Support-KWID_43700073231538867-kwd-353039629183&utm_term=KW_cloud%20run-ST_cloud%20run&gclid=CjwKCAjw-IWkBhBTEiwA2exyO4N-YLvq9tT-BpEOMcgDSN8j8h1seSxxABvOng5uGtKY4wg9PNrDRRoCqVYQAvD_BwE&gclsrc=aw.ds) service given an image ID, and upon submit, a `TERRAFORM` file is dynamically created and sets up all hosting for the given image & returns a public URL. The cloud run service will be a serveless container and can be created or deleted through the UI.
 
-Technologies Used:
+**Technologies Used:**
 - Google Cloud Run
 - Terraform
 - Node.js & Express.js
