@@ -1,4 +1,4 @@
-<div align="center" dir="auto">
+<div dir="auto">
 	<h1>
 		<b>Hello there, I'm Kudzanai Murefu</b>
 	</h1>
