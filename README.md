@@ -77,4 +77,4 @@ Strma Music (Private Repo)
 • Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run 
 • Implemented Google Cloud Scheduler to automatically back up Firebase databases 
 • Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers
-**![Web App](https://player.strma.app)**
+**[Web App](https://player.strma.app)**
