@@ -6,7 +6,7 @@
 		Dynamic Full Stack developer with 6 years experience working in both small startup environments & large corporate teams. Expertise in React, Node.js, REST, 			GraphQL, NextJS, Docker, MongoDB, AWS & GCP.
 		Download my Resume
 	</p>
-	<a href="" rel="nofollow">Download my Resume</a>
+	<a href="https://drive.google.com/file/d/1ClR3AAl8S1duP1se26xmH0bLFFcBO0oS/view?usp=sharing" rel="nofollow">Download my Resume</a>
 	<br>
 	<br>
 	<a href="mailto:kudzmurefu@gmail.com">
@@ -46,7 +46,6 @@ Libraries 🔣 :
 	<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="max-width: 100%;">
-	<img src="" style="max-width: 100%;">
 </div>
 
 
@@ -55,7 +54,6 @@ Cloud Platforms ☁️ :
 	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" style="max-width: 100%;">
-	<img src="" style="max-width: 100%;">
 </div>
 
 
