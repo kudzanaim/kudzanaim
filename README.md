@@ -93,4 +93,14 @@ Technologies Used:<br>
 • Firebase for hosting the web-app.<br>
 **[Web App](https://eqworksapiapp.firebaseapp.com/)**
 
+[**Terraform & CLoud Run Formation**](https://github.com/kudzanaim/terraform-test)
+<br>
+This App is a client-side app that allows users to provision a new [Cloud Run](https://cloud.google.com/run/?utm_source=google&utm_medium=cpc&utm_campaign=na-CA-all-en-dr-bkws-all-all-trial-e-dr-1605212&utm_content=text-ad-none-any-DEV_c-CRE_623126732339-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20_%20General%20_%20Product%20Support-KWID_43700073231538867-kwd-353039629183&utm_term=KW_cloud%20run-ST_cloud%20run&gclid=CjwKCAjw-IWkBhBTEiwA2exyO4N-YLvq9tT-BpEOMcgDSN8j8h1seSxxABvOng5uGtKY4wg9PNrDRRoCqVYQAvD_BwE&gclsrc=aw.ds) service given an image ID, and upon submit, a `TERRAFORM` file is dynamically created and sets up all hosting for the given image & returns a public URL. The cloud run service will be a serveless container and can be created or deleted through the UI. <br>
 
+Technologies Used:
+- Google Cloud Run
+- Terraform
+- Node.js & Express.js
+- Firebase
+- Docker
+- HTML & CSS
