@@ -68,13 +68,31 @@ Hosting & Orchestration 🌎 :
 <br>
 <br>
 	
-Strma Music (Private Repo)
+**Strma Music (Private Repo)**
 <br>
-• Built a serverless music streaming service hosted on GCP Cloud Run <br>
-• Deployed 3 micro-frontends built in React & Redux targeting 3 user groups (Listeners & Artists & Site Admin) <br>
-• Worked on both front & backend layers, writing client side React/Redux & NodeJS for REST API services <br>
-• Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run <br>
-• Implemented Google Cloud Scheduler to automatically back up Firebase databases <br>
-• Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers <br>
+• Built a serverless music streaming service hosted on GCP Cloud Run.. <br>
+• Deployed 3 micro-frontends built in React & Redux targeting 3 user groups (Listeners & Artists & Site Admin). <br>
+• Worked on both front & backend layers, writing client side React/Redux & NodeJS for REST API services. <br>
+• Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run. <br>
+• Implemented Google Cloud Scheduler to automatically back up Firebase databases. <br>
+• Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers. <br>
 <br>
 **[Web App](https://player.strma.app)**
+
+
+**[Simple Data Vizualization](https://github.com/kudzanaim/data-visualization)**
+<br>
+Simple client-side chart visualizations app that presents data in the form of a bar chart, plus the following: <br>
+• A data table that is used to browse through data supplied from an API. <br>
+• This table allows for fuzzy search on meaningful values (such as POI names).<br>
+• A functional map-based data visualization based on different POI-bound metrics.<br>
+<br>
+<u>Technologies Used:</u> <br>
+• React & redux.<br>
+• Google Charts for building charts.<br>
+• D3.js for builsing the map visualizations, and mapping the API metrics to the map.<br>
+• Firebase for hosting the web-app.<br>
+
+**[Web App](https://eqworksapiapp.firebaseapp.com/)**
+
+
