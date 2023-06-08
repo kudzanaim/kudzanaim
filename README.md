@@ -16,16 +16,19 @@
 	<img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
 </div>
 
+<br>
+<br>
+
 **Technology Stack 💻**
 Programming Languages 👨‍💻 :
-<div align="center" dir="auto">
+<div dir="auto">
 	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="max-width: 100%;">
 </div>
 
 
 **Frameworks & Databases 📦 :**
-<div align="center" dir="auto">
+<div dir="auto">
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="max-width: 100%;">
@@ -40,7 +43,7 @@ Programming Languages 👨‍💻 :
 
 
 **Libraries 🔣 :**
-<div align="center" dir="auto">
+<div dir="auto">
 	<img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" style="max-width: 100%;">
@@ -50,7 +53,7 @@ Programming Languages 👨‍💻 :
 
 
 **Cloud Platforms ☁️ :**
-<div align="center" dir="auto">
+<div dir="auto">
 	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" style="max-width: 100%;">
@@ -58,7 +61,7 @@ Programming Languages 👨‍💻 :
 
 
 **Hosting & Orchestration 🌎 :**
-<div align="center" dir="auto">
+<div dir="auto">
 	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;">
