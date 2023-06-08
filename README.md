@@ -81,10 +81,10 @@ Programming Languages 👨‍💻 :
 
 <br>
 <br>
-<br>
 
 
 **[Simple Data Vizualization](https://github.com/kudzanaim/data-visualization)**
+<br>
 Simple client-side chart visualizations app that presents data in the form of a bar chart, plus the following: 
 - A data table that is used to browse through data supplied from an API. 
 - This table allows for fuzzy search on meaningful values (such as POI names).
@@ -97,7 +97,6 @@ Simple client-side chart visualizations app that presents data in the form of a 
 - Firebase for hosting the web-app.
 **[Web App](https://eqworksapiapp.firebaseapp.com/)**
 
-<br>
 <br>
 <br>
 
