@@ -124,3 +124,13 @@ This App is a client-side app that allows users to provision a new [Cloud Run](h
 - Firebase
 - Docker
 - HTML & CSS
+
+**4.** [**Speech to Text Chat App**](https://github.com/kudzanaim/terraform-test)
+<br>
+This app allows user to record an audio which is sent to a NodeJS Backend and Converted to text using [Speech-to-Text API](https://cloud.google.com/speech-to-text), then sent to [OpenAI API](https://platform.openai.com/docs/api-reference/chat/create) for an answer completion.
+
+**Technologies Used:**
+- Google Cloud Run
+- Node.js & Express.js
+- Docker
+- React
