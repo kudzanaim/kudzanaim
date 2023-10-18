@@ -131,7 +131,7 @@ Live version of this app can be tested here: [https://speech-to-text-frontend-ug
 <br>
 <br>
 
-**4.** [**Speech to Text Chat App**](https://github.com/kudzanaim/terraform-test)
+**4.** [**Speech to Text Chat App**](https://github.com/kudzanaim/speech-to-text-frontend)
 <br>
 This app allows user to record an audio which is sent to a NodeJS Backend and Converted to text using [Speech-to-Text API](https://cloud.google.com/speech-to-text), then sent to [OpenAI API](https://platform.openai.com/docs/api-reference/chat/create) for an answer completion.
 
