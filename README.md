@@ -5,7 +5,7 @@
 	<p>
 		Dynamic Full Stack developer with 6 years experience working in both small startup environments & large corporate teams. Expertise in React, Node.js, REST, 			GraphQL, NextJS, Docker, MongoDB, AWS & GCP.
 	</p>
-	<a href="https://drive.google.com/file/d/1ClR3AAl8S1duP1se26xmH0bLFFcBO0oS/view?usp=sharing" rel="nofollow">Download my Resume</a>
+	<a href="https://docs.google.com/document/d/1mG4xQJZbs87KaiHKU1oCpniFf4xxHycpuAEOQ2PeN_M/edit?usp=sharing" rel="nofollow">Download my Resume</a>
 	<br>
 	<br>
 	<a href="mailto:kudzmurefu@gmail.com">
@@ -90,7 +90,6 @@ Programming Languages 👨‍💻 :
 - Implemented CI/CD pipeline that triggered builds for all Github Repos with Google Cloud Build and auto deployed to Cloud Run.
 - Implemented Google Cloud Scheduler to automatically back up Firebase databases.
 - Built Cloud Storage triggers that auto-compress audio MP3 files using Cloud Storage triggers.
-**[Web App](https://player.strma.app)**
 
 <br>
 <br>
